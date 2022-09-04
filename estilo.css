@@ -5,6 +5,18 @@ html{
 }
 
 body{
-    background-color: rgb(215, 231, 143);
-    color: rgb(7, 65, 26);
+    background-color: rgb(0, 0, 0); /*cor de fundo da pagina*/
+    color: rgb(28, 245, 100);
+}
+
+
+/*Menu Superior*/
+.link{
+
+    padding-top: 50px;      /*define distancia do texto da borda superior*/
+    padding-right: 10px;    /*define distancia do texto da borda direita*/
+    color: #d6fc02;       /*cor do texto*/  
+    text-align:right;       /*alinha o texto a direita*/ 
+    font-size: 20px;        /*tamanho da fonte*/
+    text-decoration: none;  /*retira o sublinhado do hiperlink*/
 }
